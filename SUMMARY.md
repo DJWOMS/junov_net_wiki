@@ -1,8 +1,10 @@
 # Table of contents
 
+* [База знаний JunovNet](README.md)
+
 ## backend
 
-* [😎 Архитектура](README.md)
+* [😎 Архитектура](<README (1).md>)
   * [Статьи](backend/arkhitektura/stati.md)
   * [Видео](backend/arkhitektura/video.md)
   * [Микросервисы статьи](backend/arkhitektura/mikroservisy-stati.md)
@@ -17,6 +19,10 @@
 * [Программирование](backend/programmirovanie/README.md)
   * [ООП](backend/programmirovanie/oop.md)
 * [Backend Developer дорожная карта](backend/backend-developer-dorozhnaya-karta.md)
+
+## TypeScript
+
+* [ООП](typescript/oop.md)
 
 ## Библиотеки Python
 
