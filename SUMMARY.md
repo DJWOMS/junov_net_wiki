@@ -6,6 +6,17 @@
 
 * [junov net cicd](dokumentaciya-junovnet/junov-net-cicd.md)
 
+## Python
+
+* [Асинхронность](python/asinkhronnost/README.md)
+  * [Многозадачность в Python](python/asinkhronnost/mnogozadachnost-v-python.md)
+
+## Библиотеки Python
+
+* [SqlAlchemy](biblioteki-python/sqlalchemy/README.md)
+  * [Статьи](biblioteki-python/sqlalchemy/stati.md)
+  * [Видео](biblioteki-python/sqlalchemy/video.md)
+
 ## backend
 
 * [Архитектура](<README (1).md>)
@@ -25,17 +36,6 @@
 ## TypeScript
 
 * [ООП](typescript/oop.md)
-
-## Библиотеки Python
-
-* [SqlAlchemy](biblioteki-python/sqlalchemy/README.md)
-  * [Статьи](biblioteki-python/sqlalchemy/stati.md)
-  * [Видео](biblioteki-python/sqlalchemy/video.md)
-
-## Python
-
-* [Асинхронность](python/asinkhronnost/README.md)
-  * [Многозадачность в Python](python/asinkhronnost/mnogozadachnost-v-python.md)
 
 ## Frontend
 
