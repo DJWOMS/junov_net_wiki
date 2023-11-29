@@ -32,6 +32,7 @@
 * [Программирование](backend/programmirovanie/README.md)
   * [ООП](backend/programmirovanie/oop.md)
 * [Backend Developer дорожная карта](backend/backend-developer-dorozhnaya-karta.md)
+* [Вопросы для подготовки к Python Developer интервью](backend/voprosy-dlya-podgotovki-k-python-developer-intervyu.md)
 
 ## TypeScript
 
