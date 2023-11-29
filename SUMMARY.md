@@ -2,17 +2,19 @@
 
 * [База знаний JunovNet](README.md)
 
+## Документация JunovNet
+
+* [junov net cicd](dokumentaciya-junovnet/junov-net-cicd.md)
+
 ## backend
 
-* [😎 Архитектура](<README (1).md>)
+* [Архитектура](<README (1).md>)
   * [Статьи](backend/arkhitektura/stati.md)
   * [Видео](backend/arkhitektura/video.md)
   * [Микросервисы статьи](backend/arkhitektura/mikroservisy-stati.md)
-* [😉 DDD](backend/ddd/README.md)
+* [DDD](backend/ddd/README.md)
   * [Статьи](backend/ddd/stati.md)
   * [Видео](backend/ddd/video.md)
-* [💪 SQL](backend/sql/README.md)
-  * [Бесплатные курсы](backend/sql/besplatnye-kursy.md)
 * [Паттерны и практики](backend/patterny-i-praktiki/README.md)
   * [Видео](backend/patterny-i-praktiki/video.md)
   * [Анти-паттерны](backend/patterny-i-praktiki/anti-patterny.md)
@@ -43,4 +45,12 @@
 ***
 
 * [Git](git.md)
-* [junov net cicd](junov-net-cicd.md)
+
+## Базы данных
+
+* [PostgreSQL](bazy-dannykh/postgresql/README.md)
+  * [Видео](bazy-dannykh/postgresql/video.md)
+* [SQL](bazy-dannykh/sql/README.md)
+  * [Статьи](bazy-dannykh/sql/stati.md)
+  * [Бесплатные курсы](bazy-dannykh/sql/besplatnye-kursy.md)
+  * [Видео](bazy-dannykh/sql/video.md)

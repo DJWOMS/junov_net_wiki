@@ -2,5 +2,5 @@
 description: Domain-Driven Design
 ---
 
-# 😉 DDD
+# DDD
 
