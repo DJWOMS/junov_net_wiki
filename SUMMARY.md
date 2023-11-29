@@ -60,3 +60,7 @@
   * [Статьи](bazy-dannykh/sql/stati.md)
   * [Бесплатные курсы](bazy-dannykh/sql/besplatnye-kursy.md)
   * [Видео](bazy-dannykh/sql/video.md)
+
+## Group 1
+
+* [Другое](group-1/drugoe.md)
