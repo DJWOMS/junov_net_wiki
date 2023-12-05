@@ -10,6 +10,7 @@
 
 * [Асинхронность](python/asinkhronnost/README.md)
   * [Многозадачность в Python](python/asinkhronnost/mnogozadachnost-v-python.md)
+  * [Устройство асинхронных фреймворков](python/asinkhronnost/ustroistvo-asinkhronnykh-freimvorkov.md)
 
 ## Библиотеки Python
 
