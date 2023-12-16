@@ -1,6 +1,7 @@
 # Table of contents
 
 * [База знаний JunovNet](README.md)
+  * [Как начать писать](baza-znanii-junovnet/kak-nachat-pisat.md)
 
 ## Документация JunovNet
 
