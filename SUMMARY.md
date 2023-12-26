@@ -67,3 +67,5 @@
 ## Group 1
 
 * [Другое](group-1/drugoe.md)
+
+## Group 2
