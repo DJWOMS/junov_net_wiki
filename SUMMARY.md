@@ -49,11 +49,7 @@
   * [React Router](frontend/react/react-router.md)
 * [Feature-Sliced Design](frontend/feature-sliced-design.md)
 * [Mock](frontend/mock.md)
-
-***
-
-* [Git](git/README.md)
-  * [Flow](git/flow.md)
+* [Git flow](frontend/git-flow.md)
 
 ## Базы данных
 
@@ -68,4 +64,6 @@
 
 * [Другое](group-1/drugoe.md)
 
-## Group 2
+## Git
+
+* [Flow](git/flow.md)
