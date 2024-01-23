@@ -1,6 +1,6 @@
 # Статьи
 
-{% embed url="https://backendinterview.ru/architecture/index.html" %}
+{% embed url="https://habr.com/ru/articles/787814/" %}
 
 {% embed url="https://habr.com/ru/companies/piter/articles/588669/" %}
 
