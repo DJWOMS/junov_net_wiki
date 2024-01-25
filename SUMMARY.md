@@ -35,7 +35,7 @@
 * [Программирование](backend/programmirovanie/README.md)
   * [ООП](backend/programmirovanie/oop.md)
 * [Backend Developer дорожная карта](backend/backend-developer-dorozhnaya-karta.md)
-* [Вопросы для подготовки к Python Developer интервью](backend/voprosy-dlya-podgotovki-k-python-developer-intervyu.md)
+* [Page](backend/page.md)
 
 ## TypeScript
 
@@ -68,3 +68,9 @@
 ## Git
 
 * [Flow](git/flow.md)
+
+## Подготовка к собеседованию
+
+* [Junior Python backend](podgotovka-k-sobesedovaniyu/junior-python-backend/README.md)
+  * [Вопросы для собеседования SQLAlchemy junior](podgotovka-k-sobesedovaniyu/junior-python-backend/voprosy-dlya-sobesedovaniya-sqlalchemy-junior.md)
+* [Вопросы для подготовки к Python Developer интервью](podgotovka-k-sobesedovaniyu/voprosy-dlya-podgotovki-k-python-developer-intervyu.md)
