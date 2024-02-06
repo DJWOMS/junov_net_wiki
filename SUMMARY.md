@@ -22,7 +22,7 @@
 
 ## backend
 
-* [Архитектура](<README (1).md>)
+* [Архитектура](backend/arkhitektura/README.md)
   * [Статьи](backend/arkhitektura/stati.md)
   * [Видео](backend/arkhitektura/video.md)
   * [Микросервисы статьи](backend/arkhitektura/mikroservisy-stati.md)
