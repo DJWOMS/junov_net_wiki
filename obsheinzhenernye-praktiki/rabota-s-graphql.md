@@ -4,41 +4,7 @@ description: Работа с GraphQL и интеграция с front-end при
 
 # Работа с GraphQL
 
-## Содержание
-
-[Содержание 2](https://docs.google.com/document/d/1j5nU79EGftO4QZm3Az3ykJS3YLEY4AJFpZTMEPB0LJg/edit#heading=h.yopgqvo0monp)
-
-[Введение 3](https://docs.google.com/document/d/1j5nU79EGftO4QZm3Az3ykJS3YLEY4AJFpZTMEPB0LJg/edit#heading=h.jltem586wht)
-
-[Rest VS GraphQL 4](https://docs.google.com/document/d/1j5nU79EGftO4QZm3Az3ykJS3YLEY4AJFpZTMEPB0LJg/edit#heading=h.s9bdck7xljjo)
-
-[Query: запросы в GraphQL 6](https://docs.google.com/document/d/1j5nU79EGftO4QZm3Az3ykJS3YLEY4AJFpZTMEPB0LJg/edit#heading=h.d9n9jb9brg7)
-
-[Mutation: мутации в GraphQL 8](https://docs.google.com/document/d/1j5nU79EGftO4QZm3Az3ykJS3YLEY4AJFpZTMEPB0LJg/edit#heading=h.bae6qg6759y2)
-
-[Subscription: подписки в GraphQL 9](https://docs.google.com/document/d/1j5nU79EGftO4QZm3Az3ykJS3YLEY4AJFpZTMEPB0LJg/edit#heading=h.1kzeumx8tgr7)
-
-[Типы GraphQL 10](https://docs.google.com/document/d/1j5nU79EGftO4QZm3Az3ykJS3YLEY4AJFpZTMEPB0LJg/edit#heading=h.usqeoya1ypwb)
-
-[Скалярный тип 10](https://docs.google.com/document/d/1j5nU79EGftO4QZm3Az3ykJS3YLEY4AJFpZTMEPB0LJg/edit#heading=h.nt1gwazf5ur9)
-
-[Тип запроса и мутации 10](https://docs.google.com/document/d/1j5nU79EGftO4QZm3Az3ykJS3YLEY4AJFpZTMEPB0LJg/edit#heading=h.tgd5e8r4w6ei)
-
-[Тип объекта 11](https://docs.google.com/document/d/1j5nU79EGftO4QZm3Az3ykJS3YLEY4AJFpZTMEPB0LJg/edit#heading=h.w3lnwcqlqj7o)
-
-[Тип входных данных 11](https://docs.google.com/document/d/1j5nU79EGftO4QZm3Az3ykJS3YLEY4AJFpZTMEPB0LJg/edit#heading=h.1r38mc2zt2um)
-
-[Тип перечисление 12](https://docs.google.com/document/d/1j5nU79EGftO4QZm3Az3ykJS3YLEY4AJFpZTMEPB0LJg/edit#heading=h.tjt01s2abw3w)
-
-[Союз и интерфейс 12](https://docs.google.com/document/d/1j5nU79EGftO4QZm3Az3ykJS3YLEY4AJFpZTMEPB0LJg/edit#heading=h.95exe38n8kwn)
-
-[Как работать с сервером GraphQL 14](https://docs.google.com/document/d/1j5nU79EGftO4QZm3Az3ykJS3YLEY4AJFpZTMEPB0LJg/edit#heading=h.spzj5fdcbs9b)
-
-[Подводя итоги 17](https://docs.google.com/document/d/1j5nU79EGftO4QZm3Az3ykJS3YLEY4AJFpZTMEPB0LJg/edit#heading=h.pre6fgsw0jnw)
-
-[Источники 18](https://docs.google.com/document/d/1j5nU79EGftO4QZm3Az3ykJS3YLEY4AJFpZTMEPB0LJg/edit#heading=h.7vtoez61jz7b)
-
-## Введение
+### Введение
 
 В этой статье мы познакомимся с одним очень полезным инструментом для качественного и быстрого построения современных веб-приложений. Как вы уже могли догадаться из названия, речь пойдет про GraphQL. Эту статью можно использовать в качестве учебного материала для тех, кто еще не знаком с данной технологией. Помимо этого, она отлично подойдет вам, если вы хотите освежить в памяти уже имеющиеся знания. Кто знает, может и опытные специалисты узнают тут что-то новое?
 
