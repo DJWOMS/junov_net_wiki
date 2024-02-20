@@ -7,6 +7,10 @@
 
 * [junov net cicd](dokumentaciya-junovnet/junov-net-cicd.md)
 
+## Общеинженерные практики
+
+* [Работа с GraphQL](obsheinzhenernye-praktiki/rabota-s-graphql.md)
+
 ## Python
 
 * [Roadmap изучения python](python/roadmap-izucheniya-python.md)
@@ -35,7 +39,6 @@
 * [Программирование](backend/programmirovanie/README.md)
   * [ООП](backend/programmirovanie/oop.md)
 * [Backend Developer дорожная карта](backend/backend-developer-dorozhnaya-karta.md)
-* [Page](backend/page.md)
 
 ## TypeScript
 
