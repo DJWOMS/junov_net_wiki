@@ -5,7 +5,7 @@
 
 ## Документация JunovNet
 
-* [junov net cicd](dokumentaciya-junovnet/junov-net-cicd.md)
+* [cicd](dokumentaciya-junovnet/cicd.md)
 
 ## Общеинженерные практики
 
